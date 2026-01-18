@@ -273,6 +273,7 @@ header .search-bar-container label:hover{
   display: none;
 }
 
+
 /* theme */
 .book .row form,
 .packages .box,
@@ -564,7 +565,7 @@ body.dark-theme #theme-toggle{
 
 .gallery .box-container .box .content p{
     font-size: 1.5rem;
-    /* color: #eee; */
+    color: #eee;
     padding: .5rem 0;
 }
 
