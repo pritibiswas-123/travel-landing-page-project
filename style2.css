@@ -714,6 +714,7 @@ body.dark-theme #theme-toggle{
 
 .year {
   text-align: center;
+  color: #1e1e1e;
   padding: 1px;
   background: #f0f0f0;
   font-size: 10px;
